@@ -145,4 +145,5 @@ docker run -d --rm -p 3000:3000 -p 15432:5432 --name=de-project-sprint-3-server 
 
 Выполнить:
 ```f_customer_retention_DDL.sql```
+
 ---
