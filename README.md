@@ -10,6 +10,10 @@
 #### Технологии
 - `SQL`
 - `PostgreSQL`
+  
+| Репозиторий                                                                  | Описание                                                                            |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [project_1](https://github.com/SokolArr/ya_de_portfolio/tree/main/project_1) | [README](https://github.com/SokolArr/ya_de_portfolio/blob/main/project_1/README.md) |
 ---
 
 ### [2. Оптимизация модели данных интернет-магазина](https://github.com/SokolArr/ya_de_portfolio/tree/main/project_2)
@@ -21,6 +25,10 @@
 - `Python`
 - `PostgreSQL`
 - `SQL`
+  
+| Репозиторий                                                                  | Описание                                                                            |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [project_2](https://github.com/SokolArr/ya_de_portfolio/tree/main/project_2) | [README](https://github.com/SokolArr/ya_de_portfolio/blob/main/project_2/README.md) |
 ---
 
 ### [3. Обновление пайплайна обработки данных](https://github.com/SokolArr/ya_de_portfolio/tree/main/project_3)
@@ -35,6 +43,10 @@
 - PostgreSQL
 - S3
 - REST-API
+
+| Репозиторий                                                                  | Описание                                                                            |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [project_3](https://github.com/SokolArr/ya_de_portfolio/tree/main/project_3) | [README](https://github.com/SokolArr/ya_de_portfolio/blob/main/project_3/README.md) |
 ---
 
 ### [4. Реализация витрины для расчётов выплат курьерам](https://github.com/SokolArr/ya_de_portfolio/tree/main/project_4)
@@ -49,6 +61,10 @@
 - PostgreSQL
 - MongoDB
 - REST-API
+
+| Репозиторий                                                                  | Описание                                                                            |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [project_4](https://github.com/SokolArr/ya_de_portfolio/tree/main/project_4) | [README](https://github.com/SokolArr/ya_de_portfolio/blob/main/project_4/README.md) |
 ---
 
 ### [5. Поиск сообществ с высокой конверсией в первое сообщение](https://github.com/SokolArr/ya_de_portfolio/tree/main/project_5)
@@ -64,6 +80,10 @@
 - S3
 - Vertica
 - REST-API
+
+| Репозиторий                                                                  | Описание                                                                            |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [project_5](https://github.com/SokolArr/ya_de_portfolio/tree/main/project_5) | [README](https://github.com/SokolArr/ya_de_portfolio/blob/main/project_5/README.md) |
 ---
 
 ### [6. Обновление хранилища данных для соцсети](https://github.com/SokolArr/ya_de_portfolio/tree/main/project_6)
@@ -79,6 +99,10 @@
 - MapReduce
 - HDFS
 - Apache Spark
+
+| Репозиторий                                                                  | Описание                                                                            |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [project_6](https://github.com/SokolArr/ya_de_portfolio/tree/main/project_6) | [README](https://github.com/SokolArr/ya_de_portfolio/blob/main/project_6/README.md) |
 ---
 
 ### [7. Настройка потоковой обработки данных для агрегатора доставки еды](https://github.com/SokolArr/ya_de_portfolio/tree/main/project_7)
@@ -97,6 +121,10 @@
 - PostgreSQL
 - Python
 - pySpark
+
+| Репозиторий                                                                  | Описание                                                                            |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [project_7](https://github.com/SokolArr/ya_de_portfolio/tree/main/project_7) | [README](https://github.com/SokolArr/ya_de_portfolio/blob/main/project_7/README.md) |
 ---
 
 ### [8. Создание DWH с использованием облачных технологий для агрегатора доставки еды](https://github.com/SokolArr/ya_de_portfolio/tree/main/project_8)
@@ -116,6 +144,10 @@
 - Python 
 - SQL 
 - DataLens
+
+| Репозиторий                                                                  | Описание                                                                            |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [project_8](https://github.com/SokolArr/ya_de_portfolio/tree/main/project_8) | [README](https://github.com/SokolArr/ya_de_portfolio/blob/main/project_8/README.md) |
 ---
 
 ### [9. Итоговый проект](https://github.com/SokolArr/ya_de_portfolio/tree/main/project_9)
@@ -123,7 +155,11 @@
    - 
 
 #### Технологии
-   - 
+ - 
+
+| Репозиторий                                                                  | Описание                                                                            |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [project_9](https://github.com/SokolArr/ya_de_portfolio/tree/main/project_9) | [README](https://github.com/SokolArr/ya_de_portfolio/blob/main/project_9/README.md) |
 ---
 
 
