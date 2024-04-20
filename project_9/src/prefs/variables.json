@@ -1,0 +1,11 @@
+{
+    "postgre_db": "XXXX",
+    "postgre_host": "XXXX",
+    "postgre_pass": "",
+    "postgre_port": 1234,
+    "postgre_user": "XXXX",
+    "vert_host": "XXXX",
+    "vert_pass": "XXXX",
+    "vert_port": 1234,
+    "vert_user": "XXXX"
+}
